@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jmeterTestPlan version="1.2" properties="2.8" jmeter="2.13 r1665067">
   <hashTree>
-    <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="添加账号" enabled="false">
+    <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="添加账号" enabled="true">
       <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
       <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
         <collectionProp name="Arguments.arguments">
